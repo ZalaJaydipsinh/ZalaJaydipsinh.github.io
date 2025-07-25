@@ -15,7 +15,7 @@ export default defineConfig({
   sidebar: {
     links: [
       {
-        url: "www.linkedin.com/in/jaydipsinh-zala-a7b782217",
+        url: "https://www.linkedin.com/in/jaydipsinh-zala-a7b782217",
         label: "LinkedIn",
         icon: "linkedin",
       },
