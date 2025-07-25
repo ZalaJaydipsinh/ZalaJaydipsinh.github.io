@@ -1,16 +1,3 @@
----
-sort: 5
-tags: [deployment]
-isCloudService: true
----
-
-You can build and deploy your notes using [GitHub Pages](https://pages.github.com/). GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub. Add your workflow file `.github/workflows/gh-pages.yml` and push it to your remote `main` branch.
-
-## gh-pages
-
-Add the following to `.github/workflows/gh-pages.yml` to enable deployment to GitHub pages.
-
-```yaml
 name: Deploy to GitHub Pages (npm)
 
 on:
@@ -63,4 +50,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-```
