@@ -10,7 +10,7 @@ Below notes are mentioned in respective blogs. For convenience, all are listed h
 
 # All Notes
 | Topic | Link |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | Tests, Doubts, PYQs, ToDos Tracker |  [See​](https://jayu.notion.site/bded0e7d2768489a83dba352db1f8f3b?v=744f5dbfadd64155b555b6ad623516af&source=copy_link) | 
 | GATE PW Notion Notes | [See​](https://jayu.notion.site/GATE-PW-26fad873d0824de78e1ec381e057cc68?source=copy_link) |
 | BARC all Interview Q&A till 2024 | [See​](https://jayu.notion.site/1d31fd80404e80109deff1d1a5597254?v=1d31fd80404e803e9415000c8c6d34c2&source=copy_link) | 
